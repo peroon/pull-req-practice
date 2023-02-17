@@ -8,3 +8,4 @@ this time, I set them & push.
 
 what will happen?
 
+[added]wow! txt is editable & pull-requestable from browser(github).
