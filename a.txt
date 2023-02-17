@@ -1,2 +1,10 @@
 hello
 
+omg!
+
+on my last commit, I didn't set my name & email
+
+this time, I set them & push.
+
+what will happen?
+
